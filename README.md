@@ -154,3 +154,5 @@ This project demonstrates how data-driven analysis can transform influencer mark
 This project reflects my ability to combine **data analysis with business strategy**, enabling organizations to make **profitable and scalable marketing decisions**.
 
 ---
+
+*![Dashboard](https://github.com/takbirahmedparag/YouTube-Sales-Campaign-Optimization-Top-Channel-Recommendation-for-Maximum-ROI/blob/main/Power%20BI%20dashboard/Screenshot%202026-04-26%20140132.png?raw=true)**
