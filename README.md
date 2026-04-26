@@ -35,6 +35,12 @@ The goal is to identify **which influencer/channel delivers the highest profit**
 | Dan Rhodes        | 11.15M    | 223,000         | $1,115,000 | **$1,065,000 🔥** |
 
 ---
+## Image
+## 📊 Final Output - Top Channel Recommendation
+
+<p align="center">
+  <img src="https://github.com/takbirahmedparag/YouTube-Sales-Campaign-Optimization-Top-Channel-Recommendation-for-Maximum-ROI/blob/main/Final%20Recommendation/Screenshot%202026-04-26%20140338.png" width="800"/>
+</p>
 
 ## 🧠 Key Calculations
 
